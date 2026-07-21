@@ -6,3 +6,9 @@ __pycache__/
 # OS
 Thumbs.db
 .DESKTOP
+
+# Runtime-local installation record
+runtime-install-record.txt
+
+# Python/runtime caches
+.pytest_cache/
